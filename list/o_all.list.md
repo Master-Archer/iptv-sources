@@ -1,4 +1,4 @@
-# List for **iptv.org All**(Rollback)
+# List for **iptv.org All**
 
 > M3U: [o_all.m3u](/o_all.m3u), TXT: [o_all.txt](/txt/o_all.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 
 
-Updated at **Thu Feb 13 2025 14:07:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 13 2025 14:12:17 GMT+0000 (Coordinated Universal Time)**

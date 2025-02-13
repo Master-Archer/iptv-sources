@@ -1,4 +1,4 @@
-# List for **iptv.org stream China CGTN**(Rollback)
+# List for **iptv.org stream China CGTN**
 
 > M3U: [o_s_cn_cgtn.m3u](/o_s_cn_cgtn.m3u), TXT: [o_s_cn_cgtn.txt](/txt/o_s_cn_cgtn.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 
 
-Updated at **Thu Feb 13 2025 14:07:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 13 2025 14:12:17 GMT+0000 (Coordinated Universal Time)**

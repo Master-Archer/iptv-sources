@@ -1,4 +1,4 @@
-# List for **iptv.org China**(Rollback)
+# List for **iptv.org China**
 
 > M3U: [o_cn.m3u](/o_cn.m3u), TXT: [o_cn.txt](/txt/o_cn.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 
 
-Updated at **Thu Feb 13 2025 14:07:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 13 2025 14:12:17 GMT+0000 (Coordinated Universal Time)**
